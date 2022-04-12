@@ -1,0 +1,24 @@
+{
+  "name": "build-after-file-copy",
+  "version": "1.0.0",
+  "description": "webpack plugin. Copy the packaged file to the specified location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuchunyong/build-after-file-copy.git"
+  },
+  "keywords": [
+    "wepack",
+    "copy",
+    "build"
+  ],
+  "author": "朱春永",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuchunyong/build-after-file-copy/issues"
+  },
+  "homepage": "https://github.com/zhuchunyong/build-after-file-copy#readme"
+}
